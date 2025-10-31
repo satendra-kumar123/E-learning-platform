@@ -1,0 +1,1 @@
+export const DbName = "LMS_Project"
